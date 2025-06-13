@@ -1,4 +1,4 @@
-# Produisez-une-tude-de-marche-avec-R-ou-Python
+# Produisez-une-etude-de-marche-avec-R-ou-Python
 ### Mission
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire.
 Son activité principale est l’élevage et la vente de poulets sous le label “Poulet Agriculture Biologique”.
